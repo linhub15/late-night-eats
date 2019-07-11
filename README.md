@@ -4,7 +4,7 @@ Edmonton restaurants open late at night
 # User Story
 It is 10:30 pm in Edmonton and people are hungry.\
 A user would like to know what restaurant to go eat at.\
-The restaurant must be open for the next few hours and nearby.
+The restaurant must be open for the next few hours and be relatively close driving distance.
  
 # Use Case #1 suggested restaurants
 1. User opens the app
