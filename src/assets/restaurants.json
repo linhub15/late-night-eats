@@ -2,7 +2,7 @@
   {
     "name": "Maki Maki",
     "address": "8109 101 St NW, Edmonton, AB T6E 3Y9",
-    "phone number": "(780) 438-8298",
+    "phone": "(780) 438-8298",
     "hours": {
       "sunday": "11am-11pm",
       "monday": "11am-11pm",
@@ -16,7 +16,7 @@
   {
     "name": "Steel Wheels",
     "address": "10307 85 Ave NW, Edmonton, AB T6E 6N7",
-    "phone number": "(780) 439-9978",
+    "phone": "(780) 439-9978",
     "hours": {
       "sunday": "6pm-3am",
       "monday": "closed",
@@ -30,7 +30,7 @@
   {
     "name": "Miss Saigon",
     "address": "10355 78 Ave NW, Edmonton, AB T6E 6T2",
-    "phone number": "(780) 249-2220",
+    "phone": "(780) 249-2220",
     "hours": {
       "sunday": "11am-12am",
       "monday": "11am-12am",
@@ -44,7 +44,7 @@
   {
     "name": "Original Joes (Terwillegar)",
     "address": "2323 Rabbit Hill Rd NW, Edmonton, AB T6R 3K8",
-    "phone number": "(780) 988-5637",
+    "phone": "(780) 988-5637",
     "hours": {
       "sunday": "11am-12am",
       "monday": "11am-2am",
@@ -58,7 +58,7 @@
   {
     "name": "Good Buddy",
     "address": "2059 111 St NW, Edmonton, AB T6J 4V9",
-    "phone number": "(780) 432-6050",
+    "phone": "(780) 432-6050",
     "hours": {
       "sunday": "11am-11pm",
       "monday": "11am-11pm",
@@ -72,13 +72,13 @@
   {
     "name": "Denny’s (Gateway)",
     "address": "3604 Gateway Boulevard, Edmonton, AB T6J 7A9",
-    "phone number": "(780) 438 3663",
+    "phone": "(780) 438 3663",
     "hours": "open 24 hours"
   },
   {
     "name": "XIX Nineteen (Terwillegar)*reservation only*",
     "address": "5940 Mullen Way, Edmonton, AB T6R 0R1",
-    "phone number": "(780) 395-1119",
+    "phone": "(780) 395-1119",
     "hours": {
       "sunday": "10am-10pm",
       "monday": "3pm-11pm",
@@ -92,7 +92,7 @@
   {
     "name": "Izakaya Dorinku",
     "address": "10205 82 Ave NW, Edmonton, AB T6E 3X8",
-    "phone number": "(780)",
+    "phone": "(780)",
     "hours": {
       "sunday": "11:30am-11:30pm",
       "monday": "11:30am-2pm; 5pm-11:30am",
@@ -106,7 +106,7 @@
   {
     "name": "Boston Pizza (Jasper Ave)",
     "address": "10620 Jasper Ave, Edmonton, AB T5J 2A4",
-    "phone number": "(780) 423-2333",
+    "phone": "(780) 423-2333",
     "hours": {
       "sunday": "11am-12am",
       "monday": "11am-12am",
@@ -120,7 +120,7 @@
   {
     "name": "Dream Tea (Macewan university)",
     "address": "11242 104 Ave NW, Edmonton, AB T5K 2X4",
-    "phone number": "(780) 425-8966",
+    "phone": "(780) 425-8966",
     "hours": {
       "sunday": "11:30am-11pm",
       "monday": "11:30am-11pm",
