@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Maki Maki",
+        "address": "8109 101 St NW, Edmonton, AB T6E 3Y9",
+        "phone number": "(780) 438-8298",
+        "hours": {
+            "sunday": "11am-11pm",
+            "monday": "11am-11pm",
+            "tuesday": "11am-11pm",
+            "wednesday": "11am-11pm",
+            "thursday": "11am-11pm",
+            "friday": "11am-2pm",
+            "saturday": "11am-2pm"
+        }
+    },
+    {
+        "Name": "Steel Wheels",
+        "Address": "10307 85 Ave NW, Edmonton, AB T6E 6N7",
+        "Phone number": "(780) 439-9978",
+        "Hours": {
+            "Sunday": "6pm-3am",
+            "Monday": "closed",
+            "Tuesday": "6pm-3am",
+            "Wednesday": "6pm-3am",
+            "Thursday": "6pm-3am",
+            "Friday": "6pm-3am",
+            "Saturday": "6pm-3am"
+        }
+    },
+    {
+        "Name": "Miss Saigon",
+        "Address": "10355 78 Ave NW, Edmonton, AB T6E 6T2",
+        "Phone number": "(780) 249-2220",
+        "Hours": {
+            "Sunday": "11am-12am",
+            "Monday": "11am-12am",
+            "Tuesday": "11am-12am",
+            "Wednesday": "11am-12am",
+            "Thursday": "11am-12am",
+            "Friday": "11am-4am",
+            "Saturday": "11am-4am"
+        }
+    },
+    {
+        "Name": "Original Joes (Terwillegar)",
+        "Address": "2323 Rabbit Hill Rd NW, Edmonton, AB T6R 3K8",
+        "Phone number": "(780) 988-5637",
+        "Hours": {
+            "Sunday": "11am-12am",
+            "Monday": "11am-2am",
+            "Tuesday": "11am-2am",
+            "Wednesday": "11am-2am",
+            "Thursday": "11am-2am",
+            "Friday": "11am-2am",
+            "Saturday": "11am-2am"
+        }
+    },
+    {
+        "name": "Good Buddy",
+        "Address": "2059 111 St NW, Edmonton, AB T6J 4V9",
+        "Phone number": "(780) 432-6050",
+        "Hours": {
+            "Sunday": "11am-11pm",
+            "Monday": "11am-11pm",
+            "Tuesday": "11am-11am",
+            "Wednesday": "11am-12am",
+            "Thursday": "11am-12am",
+            "Friday": "11am-12am",
+            "Saturday": "11am-12am"
+        }
+    },
+    {
+        "name": "Denny’s (Gateway)",
+        "Address": "3604 Gateway Boulevard, Edmonton, AB T6J 7A9",
+        "Phone number": "(780) 438 3663",
+        "Hours": "open 24 hours"
+    },
+    {
+        "name": "XIX Nineteen (Terwillegar)*reservation only*",
+        "Address": "5940 Mullen Way, Edmonton, AB T6R 0R1",
+        "Phone number": "(780) 395-1119",
+        "Hours": {
+            "Sunday": "10am-10pm",
+            "Monday": "3pm-11pm",
+            "Tuesday": "3pm-11am",
+            "Wednesday": "3pm-11pm",
+            "Thursday": "3pm-11pm",
+            "Friday": "12pm-12am",
+            "Saturday": "12pm-12am"
+        }
+    },
+    {
+        "name": "Izakaya Dorinku",
+        "Address": "10205 82 Ave NW, Edmonton, AB T6E 3X8",
+        "Phone number": "(780)",
+        "Hours": {
+            "Sunday": "11:30am-11:30pm",
+            "Monday": "11:30am-2pm; 5pm-11:30am",
+            "Tuesday": "11:30am-2pm; 5pm-11:30am",
+            "Wednesday": "11:30am-2pm; 5pm-11:30am",
+            "Thursday": "11:30am-2pm; 5pm-11:30am",
+            "Friday": "11:30am-2pm; 5pm-12:30am",
+            "Saturday": "11:30am-12:30pm"
+        }
+    },
+    {
+        "name": "Boston Pizza (Jasper Ave)",
+        "Address": "10620 Jasper Ave, Edmonton, AB T5J 2A4",
+        "Phone number": "(780) 423-2333",
+        "Hours": {
+            "Sunday": "11am-12am",
+            "Monday": "11am-12am",
+            "Tuesday": "11am-12am",
+            "Wednesday": "11am-12am",
+            "Thursday": "11am-12am",
+            "Friday": "11am-2am",
+            "Saturday": "11am-2am"
+        }
+    },
+    {
+        "name": "Dream Tea (Macewan university)",
+        "Address": "11242 104 Ave NW, Edmonton, AB T5K 2X4",
+        "Phone number": "(780) 425-8966",
+        "Hours": {
+            "Sunday": "11:30am-11pm",
+            "Monday": "11:30am-11pm",
+            "Tuesday": "11:30am-11pm",
+            "Wednesday": "11:30am-11pm",
+            "Thursday": "11:30am-11pm",
+            "Friday": "11:30am-12am",
+            "Saturday": "11:30am-12am"
+        }
+    }
+
+]
